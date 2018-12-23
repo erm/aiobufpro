@@ -1,0 +1,14 @@
+site_name: Gutsy
+site_description: An ASGI server for Python 3.7+.
+repo_url: "https://github.com/erm/aiobufpro"
+theme:
+  name: "cinder"
+edit_uri: ""
+
+nav:
+  - Introduction: index.md
+  - HTTP: http.md
+
+markdown_extensions:
+  - markdown.extensions.codehilite:
+guess_lang: false
